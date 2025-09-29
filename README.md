@@ -65,31 +65,18 @@ Passionate Laravel Backend Developer specializing in building high-performance, 
 
 <div align="center">
   
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMohamed&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsh100&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsh100&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohamed&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedsh100&theme=radical&hide_border=true)
 
 </div>
 
 ## 📂 Featured Projects
 
-### 🚚 [Logistics & Shipment Management System](https://github.com/AhmedMohamed/logistics-management-system)
-- Complete Laravel-based logistics management system
-- Admin dashboard with profit/loss reports
-- Email notification system
-- Customer management and tracking
+### 🚚 [Logistics & Shipment Management System](https://github.com/ahmedsh100/starter-project)
 
-### 🔊 [Text Extraction from Image to Audio](https://github.com/AhmedMohamed/text-to-speech)
-- Graduation project - Extract text from images and convert to speech
-- Image processing and AI technologies
-- User-friendly interface
-
-### 🔐 [Advanced Laravel Authentication System](https://github.com/AhmedMohamed/laravel-auth-system)
-- Complete authentication system with Sanctum & JWT
-- Role-based permissions using Spatie
-- API security best practices
 
 ## 🌐 Languages
 - **Arabic** - Native
@@ -100,6 +87,6 @@ Passionate Laravel Backend Developer specializing in building high-performance, 
 <div align="center">
 
 ### ⭐️ "Passion drives creativity, and persistence achieves success"
-![Visitor Count](https://komarev.com/ghpvc/?username=AhmedMohamed&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmedsh100&color=blueviolet&style=for-the-badge)
 
 </div>
