@@ -1,4 +1,4 @@
-![Laravel Developer Banner](https://github.com/ahmedsh100/ahmedmohamed/blob/main/github-banner.png)
+![Laravel Developer Banner](https://github.com/ahmedsh100/ahmedsh100/blob/main/github-banner.png)
 
 # 👋 Ahmed Mohamed | Laravel Backend Developer
 
